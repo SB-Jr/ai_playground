@@ -1,6 +1,9 @@
 # datasets
-*dataset/*
-
+*dataset*
 
 # jupyter notebook checkpoints
 *.ipynb_checkpoint*
+*.virtual_documents*
+
+# python cache
+*__pycache__*
